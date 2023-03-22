@@ -1,0 +1,7 @@
+Container link demo(simulated link)
+
+https://learn.microsoft.com/en-us/training/modules/configure-azure-container-instances/6-simulation-containers
+
+Kubernet link demo(simulated link)
+
+https://learn.microsoft.com/en-us/training/modules/configure-azure-kubernetes-service/8-simulation-kubernetes
